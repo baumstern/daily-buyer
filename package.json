@@ -1,0 +1,14 @@
+{
+  "name": "daily-buyer",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "uuid": "^8.3.2"
+  }
+}
