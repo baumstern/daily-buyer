@@ -4,6 +4,8 @@ Buy cryptocurrency using Open API from [Upbit](https://upbit.com/).
 
 Currently, when the program is executed each time, it creates an order for BTC and ETH at a market price equivalent to KRW 5,000.
 
+*Writing go program is in progress ...*
+
 ## Quick Start
 
 Install dependencies:
